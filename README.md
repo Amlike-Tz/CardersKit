@@ -9,20 +9,44 @@
 ### Supported Language:
 - *python 3.x*
 
-##CardersKit
-![](screenshot/image.png)
-
 
 ### Installation :
 
-apt install git python3 -y
-git clone https://github.com/Amlike-Tz/CardersKit
+```bash
+pkg update && pkg upgrade
+```
+
+```bash.
+git clone https://github.com/Amlike-Tz/CardersKit.git
+```
+
+```bash
+ls
+```
+
+```bash
 cd CardersKit
-python3 start.py
+```
+
+```bash
+ls
+```
 
 
+```bash
+chmod +x requirement.sh
+```
 
-<br><a href="#"><img src="https://i.ibb.co/sjk6qz3/enc.png"></a><br>
+
+```bash
+bash requirement.sh
+```
+
+```bash
+python start.py
+```
+
+![](/screenshot/image.jpeg)
 
 ### 📡 Get in Touch :
 [![Github](https://img.shields.io/badge/Github-525252?style=for-the-badge&logo=github)](https://github.com/Amlike-Tz)
