@@ -34,7 +34,7 @@ import subprocess
 
 
 os.system("rm start.py")
-
+os.system("clear")
 print ("Amlike says he is checking for any updates../")
 
 #subprocess.call("wget https://raw.githubusercontent.com/Amlike-Tz/CardersKit/main/start.py")
