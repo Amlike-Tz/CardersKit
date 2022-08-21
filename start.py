@@ -37,7 +37,7 @@ os.system("rm start.py")
 
 print ("Amlike says he is checking for any updates../")
 
-subprocess.call("wget https://github.com/Amlike-Tz/CardersKit/blob/main/start.py")
+subprocess.call("wget https://raw.githubusercontent.com/Amlike-Tz/CardersKit/main/start.py")
 
 
 show = "Amlike-Tz"
