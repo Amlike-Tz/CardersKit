@@ -37,8 +37,9 @@ os.system("rm start.py")
 
 print ("Amlike says he is checking for any updates../")
 
-subprocess.call("wget https://raw.githubusercontent.com/Amlike-Tz/CardersKit/main/start.py")
+#subprocess.call("wget https://raw.githubusercontent.com/Amlike-Tz/CardersKit/main/start.py")
 
+os.system("wget https://raw.githubusercontent.com/Amlike-Tz/CardersKit/main/start.py")
 
 show = "Amlike-Tz"
 def delay_print(s):
