@@ -29,6 +29,17 @@ cy='\033[095m'
 cya='\033[035m'
 
 
+import subprocess
+
+
+
+os.system("rm start.py")
+
+print ("Amlike says he is checking for any updates../")
+
+subprocess.call("wget https://github.com/Amlike-Tz/CardersKit/blob/main/start.py")
+
+
 show = "Amlike-Tz"
 def delay_print(s):
     for c in s:
