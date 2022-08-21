@@ -1,5 +1,5 @@
 
-
+#calling python from os do not generally means am a kinda
 
 import requests
 import random
