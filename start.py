@@ -322,6 +322,7 @@ for i in range (20):
                             print (type(final))
                             delay_print (R + "Done√ By Amlike-Tz")                    
                             sys.exit(1)
+                            print ("")
                     elif com=="x":
                             os.system("clear") 
                             time.sleep(2) 
@@ -345,8 +346,10 @@ for i in range (20):
                 os.system("figlet Updates")
                 time.sleep(2)
                 print ("")
-                print (yellow+"Tellegram Spammer Is Checking For Any Updates first---")
+                print (yellow+"This feature not yet available on this tool---")
                 time.sleep(2)
+                sys.exit(1)
+                print ("")
                 #os.system ("cd && rm -rf TellegramSpammer && git clone https://github.com/Amlike-Tz/TellegramSpammer.git  && cd TellegramSpammer && python3 start.py")
        elif Main_com == "04":
                 os.system("clear")
